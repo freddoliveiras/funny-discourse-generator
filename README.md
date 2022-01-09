@@ -40,7 +40,7 @@ Project is: _complete_
 ## Room for Improvement (TODO)
 - Develop and implement a front end interface to provide access to common users.
 - Create a postgresq database to store much more text fragments. Conect the page to the database.
-- Create parameters to enter the name of the politician, some concrete staff to substitute words in text and turn the game more insteresting.
+- Create parameters to enter the name of the politician, some concrete stuff to substitute words in text and turn the game more interesting.
 
 
 ## Contact
