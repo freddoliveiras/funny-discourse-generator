@@ -44,6 +44,6 @@ Project is: _complete_
 
 
 ## Contact
-Created by [Fredd Oliveiras](https://github.com/freddoliveiras) - feel free to contact me!
+Created by [Fredd Oliveiras](https://www.linkedin.com/in/freddoliveiras/) - feel free to contact me!
 
 This project is open source. Use it with no limitations.
