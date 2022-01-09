@@ -1,5 +1,5 @@
-//Declare arrays with the pieces of text.
-const piece1 = [
+//Declare arrays with the fragments of text.
+const fragment1 = [
     'Dear people of my country, ',
     'We should never forget that ',
     'The experience shows us that ',
@@ -10,10 +10,10 @@ const piece1 = [
     'Today, ',
     'In the context of the current policy, ',
     'All data points out that ',
-    'As a result of this intensive work, ',
+    'As a result, ',
     'This awesome project makes me believe that '
 ];
-const piece2 = [
+const fragment2 = [
     'our effort to accomplish this challenge ',
     'a great complexity of studies ',
     'the new structural model, recommended here, ',
@@ -21,15 +21,15 @@ const piece2 = [
     'the assess of those results ',
     'the development of different ways of acting '
 ];
-const piece3 = [
+const fragment3 = [
     'compels us to the analyses ',
     'plays a fundamental role in the formulation ',
     'requires precision and definition ',
     'offers an excellent opportunity for the verification ',
     'takes position in the configuration ',
-    'emphasize the importance '
+    'gives focus to the importance '
 ];
-const piece4 = [
+const fragment4 = [
     'of our financial and administrative goals.',
     'of basic politics toward the success of the program.',
     'of specific conditions for each business.',
@@ -38,7 +38,7 @@ const piece4 = [
     'of the procedures.'
 ];
 
-//Declare randomized pieces arrays
+//Declare randomized fragments arrays
 let seq1 = [];
 let seq2 = [];
 let seq3 = [];
@@ -80,7 +80,7 @@ do {
 
 //Create the string with randomized array elements
 for (let i = 0; i <= 5; i++) {
-    discourseString = discourseString + piece1[seq1[i]] + piece2[seq2[i]] + piece3[seq3[i]] + piece4[seq4[i]] + '\n'
+    discourseString = discourseString + fragment1[seq1[i]] + fragment2[seq2[i]] + fragment3[seq3[i]] + fragment4[seq4[i]] + '\n'
 }
 
 //log the discourse
